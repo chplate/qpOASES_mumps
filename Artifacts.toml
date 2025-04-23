@@ -1,0 +1,118 @@
+[[qpOASES_mumps]]
+arch = "aarch64"
+git-tree-sha1 = "cba7c668823db73416ca09fa40fe8daf26c51523"
+os = "macos"
+
+    [[qpOASES_mumps.download]]
+    sha256 = "9e839162e90cc971b783324af39bea9efae48ef6871705e3decd64d7cd2c856d"
+    url = "https://github.com/chplate/qpOASES_mumps/releases/download/qpOASES_mumps-v3.2.2+0/qpOASES_mumps.v3.2.2.aarch64-apple-darwin.tar.gz"
+[[qpOASES_mumps]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2c35235f8bfe0bcd6bdf592ddc47958080ec4d9e"
+libc = "glibc"
+os = "linux"
+
+    [[qpOASES_mumps.download]]
+    sha256 = "1cf643b3327e00b3b942b2a4b2fe165da46e3c2ef2a61ccc5680d32c46196338"
+    url = "https://github.com/chplate/qpOASES_mumps/releases/download/qpOASES_mumps-v3.2.2+0/qpOASES_mumps.v3.2.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[qpOASES_mumps]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f1466d45be4dd930e27ba64a280fb50c4a39229b"
+libc = "glibc"
+os = "linux"
+
+    [[qpOASES_mumps.download]]
+    sha256 = "61275393ebeb458ed6c9bdbbd64501aee77556754c354e264a6488fbc34bb827"
+    url = "https://github.com/chplate/qpOASES_mumps/releases/download/qpOASES_mumps-v3.2.2+0/qpOASES_mumps.v3.2.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[qpOASES_mumps]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "978b50e5407718e2c7a29b42d02cbe723ec811b6"
+libc = "glibc"
+os = "linux"
+
+    [[qpOASES_mumps.download]]
+    sha256 = "160934948e4bd93fdf335317f1824ebcdea43a54ac5e7f1f2e4d2604acf3f741"
+    url = "https://github.com/chplate/qpOASES_mumps/releases/download/qpOASES_mumps-v3.2.2+0/qpOASES_mumps.v3.2.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[qpOASES_mumps]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "95807482b90eed1bc8209eae7fddf7928b516aa5"
+libc = "glibc"
+os = "linux"
+
+    [[qpOASES_mumps.download]]
+    sha256 = "176a0e054e771281fe3e5f2bb7fe691490ccaeb125c6db47b6c53288f1619726"
+    url = "https://github.com/chplate/qpOASES_mumps/releases/download/qpOASES_mumps-v3.2.2+0/qpOASES_mumps.v3.2.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[qpOASES_mumps]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "92997e5204dad776e3af968caabacb2ffd0ff357"
+libc = "glibc"
+os = "linux"
+
+    [[qpOASES_mumps.download]]
+    sha256 = "9fe3ec8869ee51ce122f9e088a9e6b2336c3d18f055332f4ed48dfa7bb0f9b64"
+    url = "https://github.com/chplate/qpOASES_mumps/releases/download/qpOASES_mumps-v3.2.2+0/qpOASES_mumps.v3.2.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[qpOASES_mumps]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0e1d488b21ee7dbc3c9299bd3e7e614da2e48077"
+libc = "glibc"
+os = "linux"
+
+    [[qpOASES_mumps.download]]
+    sha256 = "d5a8789aae5a7fa32a891ba984c0bdbef5d4d80f2c66f6837963cb6aafa9d059"
+    url = "https://github.com/chplate/qpOASES_mumps/releases/download/qpOASES_mumps-v3.2.2+0/qpOASES_mumps.v3.2.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[qpOASES_mumps]]
+arch = "x86_64"
+git-tree-sha1 = "dab1b3944ab4f8b17f680dbc0cd8a3949deee943"
+os = "macos"
+
+    [[qpOASES_mumps.download]]
+    sha256 = "5b5f79fbc9478345c8c0d10e9e52fea80f50c4f7a24d1e3f7a11bb7d9f3f6eb7"
+    url = "https://github.com/chplate/qpOASES_mumps/releases/download/qpOASES_mumps-v3.2.2+0/qpOASES_mumps.v3.2.2.x86_64-apple-darwin.tar.gz"
+[[qpOASES_mumps]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c2dc6e7c18050e42b2d2ec916c56a9b09a2d5520"
+libc = "glibc"
+os = "linux"
+
+    [[qpOASES_mumps.download]]
+    sha256 = "287c6ba9a660b2c547e1a0bf68199ca6efda1b6e5967846bc50d5464559dbc8a"
+    url = "https://github.com/chplate/qpOASES_mumps/releases/download/qpOASES_mumps-v3.2.2+0/qpOASES_mumps.v3.2.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[qpOASES_mumps]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "43f1db4f8cf4eb7bd18cc79dd4831275836c6d0b"
+libc = "glibc"
+os = "linux"
+
+    [[qpOASES_mumps.download]]
+    sha256 = "aa8b4db60edb200d665c77976029d151ea2474992bb374a0e6b0da176c3a2ca5"
+    url = "https://github.com/chplate/qpOASES_mumps/releases/download/qpOASES_mumps-v3.2.2+0/qpOASES_mumps.v3.2.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[qpOASES_mumps]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8e26832556f32b941523f7f460ec966d6f12ba70"
+os = "windows"
+
+    [[qpOASES_mumps.download]]
+    sha256 = "b6679ebe044641eb8f84f0d9ae598340218f22e6325dbc62b2d0dbd59812d190"
+    url = "https://github.com/chplate/qpOASES_mumps/releases/download/qpOASES_mumps-v3.2.2+0/qpOASES_mumps.v3.2.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[qpOASES_mumps]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a7c97f1836262d3656dfb791fd752b1153aa2d7e"
+os = "windows"
+
+    [[qpOASES_mumps.download]]
+    sha256 = "81e1d37c2ff5f00b85e197564e8c9da7b9d116a0b5cc5e87cf6eb0947e44167b"
+    url = "https://github.com/chplate/qpOASES_mumps/releases/download/qpOASES_mumps-v3.2.2+0/qpOASES_mumps.v3.2.2.x86_64-w64-mingw32-cxx11.tar.gz"
